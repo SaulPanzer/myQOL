@@ -1,0 +1,2 @@
+# myQOL
+Basic QOL code
